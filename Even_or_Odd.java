@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Even_or_Odd{
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Enter an Integer: ");
